@@ -54,5 +54,6 @@
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/air%20drop.png)
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/R23.png)
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/Geekbench.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/C4d.png)
 
 
