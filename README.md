@@ -1,12 +1,15 @@
 # ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh 
 
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
-
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/2.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/DIMM.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/NVME.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/USB.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6600XT.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/BT.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/BCM%20WIFI.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/audio.png)
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/air%20drop.png)
 
 ===============================================================================
 #  ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.7.7开发者版本
