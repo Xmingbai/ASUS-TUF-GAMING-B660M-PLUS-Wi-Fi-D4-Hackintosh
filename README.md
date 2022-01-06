@@ -1,8 +1,8 @@
-# ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh 
+# ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh 
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
-# Ver1.0  ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.7.7开发者版本
+# Ver1.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.7.7开发者版本
 
 
 
