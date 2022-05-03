@@ -35,7 +35,7 @@ CPU：i5-12600K
 
 #  功能完善程度
 
-☆ CPU 大小核心识别正常（C4D 渲染可以满载）
+☆ CPU 大小核心识别正常（C4D 渲染可以满载），没有小核心的CPU型号，需关闭provideCurrentCpuInfo
 
 ☆ USB3.0和2.0识别（定制中不含前置TYPE-C）
 
