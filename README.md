@@ -1,7 +1,12 @@
 # ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh （B660重炮手）
 
+# 本块主板测评视频链接：https://www.bilibili.com/video/BV12L411V7dg
+
+# 也欢迎关注B站UP：小明和他的女朋友   淘宝店铺：小明白工作室
+
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
+===============================================================================
 # Ver0.8.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版 （B660重炮手）
 1.更新kexts至最新，更新至OC0.80正式版，支持Catalina、big sur、Monterey12.4版本
 
@@ -19,9 +24,6 @@
 
 ===============================================================================
 
-# 本块主板测评视频链接：https://www.bilibili.com/video/BV12L411V7dg
-
-# 也欢迎关注B站UP：小明和他的女朋友
 
 # 测评主机配置：
 
