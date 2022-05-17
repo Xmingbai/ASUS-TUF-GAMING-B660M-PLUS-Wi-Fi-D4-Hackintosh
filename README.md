@@ -6,8 +6,6 @@
 
 # 淘宝店铺：小明白工作室
 
-![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
-
 ===============================================================================
 # Ver0.8.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版 （B660重炮手）
 1.更新kexts至最新，更新至OC0.80正式版，支持Catalina、big sur、Monterey12.4版本
@@ -70,7 +68,7 @@ CPU：i5-12600K
 
 # 淘宝店铺名：小明白工作室  店铺短网址：https://cn.hk.uy/PHe
 
-
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/2.png)
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/DIMM.png)
