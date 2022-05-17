@@ -1,8 +1,8 @@
-# ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh 
+# ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh （B660重炮手）
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
-# Ver0.8.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版
+# Ver0.8.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版 （B660重炮手）
 1.更新kexts至最新，更新至OC0.80正式版，支持Catalina、big sur、Monterey12.4版本
 
 2.修复睡眠秒醒问题，关闭USB唤醒
