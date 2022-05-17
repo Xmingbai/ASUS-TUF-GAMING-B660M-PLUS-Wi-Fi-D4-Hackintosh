@@ -2,7 +2,9 @@
 
 # 本块主板测评视频链接：https://www.bilibili.com/video/BV12L411V7dg
 
-# 也欢迎关注B站UP：小明和他的女朋友   淘宝店铺：小明白工作室
+# 也欢迎关注B站UP：小明和他的女朋友   
+
+# 淘宝店铺：小明白工作室
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
