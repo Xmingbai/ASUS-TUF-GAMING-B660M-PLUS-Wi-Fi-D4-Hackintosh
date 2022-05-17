@@ -2,7 +2,20 @@
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
-# Ver1.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.7.7开发者版本
+# Ver0.8.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版
+1.更新kexts至最新，更新至OC0.80正式版，支持Catalina、big sur、Monterey12.4版本
+
+2.修复睡眠秒醒问题，关闭USB唤醒
+
+3.支持12代所有大小核心CPU型号，可同时大小核心；没有小核心的CPU型号，需关闭provideCurrentCpuInfo
+
+4.支持NAVI核心RX5500/5600/5700/6600/6800/6900系列显卡（vega核心系列显卡需去掉启动参数agdpmod=pikera）
+
+5.重新定制15个USB端口，保留前置USB（USB3+TYPE-C）
+
+# 6.新增支持RX6650XT和RX6950XT，需在ACPI中勾选对应SSDT补丁才能启用。
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
+
 
 ===============================================================================
 
