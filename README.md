@@ -21,7 +21,7 @@
 # 6.新增支持RX6650XT和RX6950XT，需在ACPI中勾选对应SSDT补丁才能启用。
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
 
-不同主板请确认显卡路径，参考视频教程：https://www.bilibili.com/video/BV1D541197yT
+不同主板请确认DSDT中显卡路径，参考视频教程：https://www.bilibili.com/video/BV1D541197yT
 
 
 ===============================================================================
