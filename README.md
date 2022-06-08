@@ -70,6 +70,13 @@ CPU：i5-12600K
 
 # 淘宝店铺名：小明白工作室  店铺短网址：https://cn.hk.uy/PHe
 
+# 主板bios设置
+
+初始化 
+关闭 serial port
+关闭fast boot
+开启 XMP
+
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/2.png)
