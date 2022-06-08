@@ -72,10 +72,16 @@ CPU：i5-12600K
 
 # 主板bios设置
 
-初始化 
-关闭 serial port
-关闭fast boot
-开启 XMP
+☆ 初始化 
+
+☆ 关闭 serial port
+
+☆ 关闭fast boot
+
+☆ 开启 XMP
+
+如果安装windows时没动过bios，默认状态下即可安装macOS
+
 
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B560M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/1.png)
 
