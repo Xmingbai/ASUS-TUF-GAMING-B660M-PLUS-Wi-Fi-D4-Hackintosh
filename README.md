@@ -6,6 +6,26 @@
 
 # 淘宝店铺：小明白工作室
 
+
+===============================================================================
+# Ver0.8.2  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版 （B660重炮手）
+
+1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta
+
+2.更新Kexts至最新版本，支持新出售的重炮手声卡
+
+3.默认config.plist 支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
+
+4.引导默认支持PCIEx1 的博通WIFI和蓝牙，板载 intel WiFi 需去config 手动启用
+
+5,重新定制15个USB端口，保留前置USB（USB3+TYPE-C）
+
+6.新增支持RX6650XT和RX6950XT，需在ACPI中勾选对应SSDT补丁才能启用。
+
+![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
+
+不同主板请确认DSDT中显卡路径，参考视频教程：https://www.bilibili.com/video/BV1D541197yT
+
 ===============================================================================
 # Ver0.8.0  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.0正式版 （B660重炮手）
 1.更新kexts至最新，更新至OC0.80正式版，支持Catalina、big sur、Monterey12.4版本
@@ -20,7 +40,6 @@
 
 # 6.新增支持RX6650XT和RX6950XT，需在ACPI中勾选对应SSDT补丁才能启用。
 ![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
-
 不同主板请确认DSDT中显卡路径，参考视频教程：https://www.bilibili.com/video/BV1D541197yT
 
 
