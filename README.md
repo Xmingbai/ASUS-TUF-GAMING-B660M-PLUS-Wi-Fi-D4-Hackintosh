@@ -12,9 +12,11 @@
 
 1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta
 
-2.更新Kexts至最新版本，支持新出售的重炮手声卡
+2.更新Kexts至最新版本，支持新出售的重炮手声卡；
 
-3.默认config.plist 支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
+3.默认config.plist 支持12代所有大小核心CPU型号，可同时开启大小核心；没有小核心的CPU型号，需关闭provideCurrentCpuInfo；
+
+支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
 
 4.引导默认支持PCIEx1 的博通WIFI和蓝牙，板载 intel WiFi 需去config 手动启用
 
