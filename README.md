@@ -10,7 +10,7 @@
 ===============================================================================
 # Ver0.8.2  ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh  opencore0.8.2正式版 （B660重炮手）
 
-1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta
+1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta 2
 
 2.更新Kexts至最新版本，支持新出售的重炮手声卡；
 
